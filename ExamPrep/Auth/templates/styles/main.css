@@ -1,0 +1,14 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../assets/bg.jpg");
+    background-repeat: repeat;
+}
+.card{
+    text-align: center;
+    width:22%;
+}
+.input{
+    margin-bottom:14px; 
+}
